@@ -1,0 +1,85 @@
+{
+  "name": "Voxel Avatar #7",
+  "description": "A unique generative voxel avatar with procedurally generated traits.",
+  "image": "ipfs://YOUR_IMAGES_CID/7.png",
+  "external_url": "https://yourwebsite.com/avatar/7",
+  "attributes": [
+    {
+      "trait_type": "Head Size",
+      "value": 0.93,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Body Width",
+      "value": 1.27,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Body Height",
+      "value": 2.01,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Arm Length",
+      "value": 1.23,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Leg Length",
+      "value": 1.06,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Skin Color",
+      "value": "RGB(249, 15, 224)"
+    },
+    {
+      "trait_type": "Cloth Color",
+      "value": "RGB(99, 191, 206)"
+    },
+    {
+      "trait_type": "Has Hat",
+      "value": true
+    },
+    {
+      "trait_type": "Hat Type",
+      "value": "cube"
+    },
+    {
+      "trait_type": "Has Eyes",
+      "value": true
+    },
+    {
+      "trait_type": "Pose",
+      "value": "T-Pose"
+    },
+    {
+      "trait_type": "Skin Color R",
+      "value": 0.71
+    },
+    {
+      "trait_type": "Skin Color G",
+      "value": 0.65
+    },
+    {
+      "trait_type": "Skin Color B",
+      "value": 0.36
+    },
+    {
+      "trait_type": "Cloth Color R",
+      "value": 0.14
+    },
+    {
+      "trait_type": "Cloth Color G",
+      "value": 0.59
+    },
+    {
+      "trait_type": "Cloth Color B",
+      "value": 0.41
+    },
+    {
+      "trait_type": "Pose Arms Down",
+      "value": true
+    }
+  ]
+}
